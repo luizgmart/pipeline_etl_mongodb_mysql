@@ -12,6 +12,4 @@ O objetivo é demonstrar um fluxo completo de dados: pegar informações da API,
 - Armazena os dados no MongoDB  
 - Realiza transformações e limpezas nos dados  
 - Carrega os dados transformados no MySQL  
-- Scripts organizados para automação e reuso  
-
 ---
